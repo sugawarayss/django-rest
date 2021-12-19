@@ -1,3 +1,5 @@
 .idea/
 .venv/
 Pipfile.loack
+db.sqlite3
+identifier.sqlite
